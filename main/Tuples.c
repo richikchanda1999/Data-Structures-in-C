@@ -63,7 +63,7 @@ void quickSort(int **a, int **b, int low, int high) {
 
 
 int main() {
-	int n;
+	int n, m = 0;
 	//scanf("%d", &n);
 	printf("Enter no. of tuples : ");
 	scanf("%d", &n);
